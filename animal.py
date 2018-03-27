@@ -27,6 +27,7 @@ bobby = Dog('bobby')
 
 bobby.walk().walk().pet().display_health()
 
+print bobby
 
 
 
